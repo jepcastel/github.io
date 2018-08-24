@@ -1,0 +1,32 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Carpeta docent"
+    url: /carpeta/
+  - title: "Activitats"
+    url: /activitats/
+  - title: "Aquest lloc"
+    url: /about/
+
+Carpeta:
+   - title: "Carpeta docent"
+     children:  
+       - title: "Formacio rebuda"
+         url: /carpeta/01Formacio-rebuda/                
+       - title: "Docència realitzada"
+         url: /carpeta/02Docencia-realitzada/    
+       - title: "Filosofia"
+         url: /carpeta/03Filosofia-docent/         
+
+Activitats:
+   - title: "Activitats"
+     children:
+       - title: "Activitat 1"
+         url: /activitats/01Activitat-1
+       - title: "Activitat 2"
+         url: /activitats/02Activitat-2
+       - title: "Activitat 3"
+         url: /activitats/03Activitat-3
+       - title: "Activitat 4"
+         url: /activitats/04Activitat-4
