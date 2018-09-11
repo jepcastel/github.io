@@ -1,10 +1,6 @@
 ---
-title: "Docència realitzada"
-#sidebar:
-#  - title: <a href="/carpeta/01Formacio-rebuda">Formació rebuda</a>
-#  - title: <a href="/carpeta/02Docencia-realitzada">Docència realitzada</a>
-#  - title: <a href="/carpeta/03Filosofia-docent">Filosofia docent</a>
-#author_profile: true
+title: Docència realitzada
+published: true
 ---
 
 Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. Des d'aleshores desenvolutat activitat docent, tant en l'àmbit del pregrau com del prosgrau.
@@ -46,5 +42,4 @@ La docència que he realitzat en aquest àmbit es pot agrupar en les següents t
   
 Des de l'any 2009 formo part de l'equip docent del <a href="http://www.eu2p.org" target="_blank">_European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P)_</a>, que imparteix formació virtual.
 
-Des de l'any 2010 sóc docent en el <a haref="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>. 
-  
+Des de l'any 2010 sóc docent en el <a haref="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>.
