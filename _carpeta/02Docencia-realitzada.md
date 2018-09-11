@@ -44,7 +44,7 @@ La docència que he realitzat en aquest àmbit es pot agrupar en les següents t
   * Docència virtual
   * Maneig i desenvolupament de cursos amb la plataforma Moodle
   
-Des de l'any 2009 formo part de l'equip docent del <a href=""http://www.eu2p.org" target="_blank">_European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P)_</a>, que imparteix formació virtual.
+Des de l'any 2009 formo part de l'equip docent del <a href="http://www.eu2p.org" target="_blank">_European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P)_</a>, que imparteix formació virtual.
 
 Des de l'any 2010 sóc docent en el <a haref="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>. 
   
