@@ -7,47 +7,44 @@ title: "Docència realitzada"
 #author_profile: true
 ---
 
-* **1987-actualitat:** Professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>.
-Des d'aleshores la docència que he realitzat es pot emmarcar en dos grans eixos de coneixement. L'**epidemiologia dels medicaments** i la **selecció i ús saludable dels medicaments**.
+Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. Des d'aleshores desenvolutat activitat docent, tant en l'àmbit del pregrau com del prosgrau.
 
-* **1987-1993:** Classes teòriques i seminaris pràctics. Tercer (farmacologia bàsica), i sisè curs (farmacologia clínica) de la llicenciatura de medicina. Les temàtiques impartides en aquest període han estat:
-  * Farmacocinètica bàsica i clínica
-  * Farmacogenètica
-  * Farmacologia dels autacoides i d'altres substàncies endògenes
-  * Fàrmacs antihistamínics
-  * Tractament del dolor
-  * Fàrmacs opiacis
-  * Analgèsics i antiïnflamatòris
-  * Tractament de l'ansietat i la depressió
-  * Tractament de la migranya
-  * Tractament de malalties osteoarticular
-* **1987-1988:** Classes teòriques de farmacogenètica. Segon curs del diplomat d'infermeria de  l'<a href="http://www.vhebron.net/infermeria" target="_blank">Escola d'infermeres de la Vall d'Hebron</a>.
-* **1991- 2001:** Docència al Mestratge en Farmacoepidemiologia. UAB Temàtiques impartides:
-  * Mètodes en farmacoepidemilogia
-  * Farmacovigilància
+## Pregrau
+
+ La docència que he realitzat en aquest àmbit es pot resumir en els següents eixos de coneixement: 
+   * Farmacologia
+   * Terapèutica
+   * Epidemiologia dels medicaments
+   * Selecció i ús saludable dels medicaments
+
+He impartit classes teòriques i seminaris pràctics en les assignatures de Farmacologia bàsica (tercer curs) i Farmacologia clínica (sisè i cinquè curs) del Grau de Medicina: 
   * Assaig clínic
-  * Informació de medicaments i TIC
-* **1993-actualitat:** Seminaris i tallers de farmacologia bàsica i farmacologia clínica a tercer i cinquè curs de la llicenciatura de Medicina de la UAB. Temàtiques impartides :
-  * Fonaments del desenvolupament de medicaments
-  * Estudis pre-clínics dels medicaments
-  * Estudis de medicaments en humans
-  * L'assaig clínic controlat
-  * Fonaments de farmacovigilància
-  * Lectura crítica d'estudis d'eficàcia de medicaments
-  * Fonaments de causalitat epidemiològica
   * Diagnòstic de reaccions adverses a medicaments
-  * Tracament del dolor
-  * Desenvolupament i presentació d'un studi de recerca
-* **1998-2000:** Docència en formació continuada sobre:
-  * Recollida i gestió de dades clíniques sobre reaccions adverses a medicaments
-  * Procés de dades de recerca en salut amb SPSS.
-* **2003-2009:** Docent en  Mestratge virtual en Farmacoepidemiologia. Temàtiques impartides:
-  * Familliarització a la formació virtual
-* Mètodes en farmacoepidemiologia
-  * Informació de medicaments i TIC
-  * Direcció de projectes de recerca
-* **2009-actualitat:** Docent en European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P).
-* **2010-actualitat:** Docents en Màster Universitari en Farmacolgia. UAB. sobre  ”_Avaluació clínica i epidemiològica dels medicaments_”. Temàtiques impartides:
-  * Aplicació clínica de la recerca amb medicaments
-  * Mètodes en farmacoepidemiologia. Tipus d'estudis
-  * Farmacovigilància. Diagnòstic de reaccions adverses a medicaments
+  * Farmacocinètica
+  * Farmacogenètica
+  * Farmacovigilància
+  * Fonaments de recerca amb medicaments
+  * Informació sobre medicaments i TIC
+  * Lectura crítica d'estudis amb medicaments
+  * Mètodes en farmacoepidemilogia
+  * Sel·lecció de medicaments per al tractament de 
+     * dolor
+     * ansietat i depressió
+     * migranya
+     * malalties osteoarticular  
+  
+## Postgrau
+
+La docència que he realitzat en aquest àmbit es pot agrupar en les següents temàtiques:
+  * Epidemiologia dels medicaments
+  * Gestió i anàlisi de dades de recerca
+  * Mètodes en farmacoepidemiologia
+  * Farmacovigilància
+  * Eines digitals per a l'acció docent
+  * Docència virtual
+  * Maneig i desenvolupament de cursos amb la plataforma Moodle
+  
+Des de l'any 2009 formo part de l'equip docent del <a href=""http://www.eu2p.org" target="_blank">_European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P)_</a>, que imparteix formació virtual.
+
+Des de l'any 2010 sóc docent en el <a haref="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>. 
+  
