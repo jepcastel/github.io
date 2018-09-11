@@ -3,7 +3,7 @@ title: Docència realitzada
 published: true
 ---
 
-Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. Des d'aleshores desenvolutat activitat docent, tant en l'àmbit del pregrau com del prostgrau.
+Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. Des d'aleshores desenvolutat activitat docent, tant en l'àmbit del pregrau com del postgrau.
 
 ## Pregrau
 
