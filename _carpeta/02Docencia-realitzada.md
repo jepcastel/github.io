@@ -42,4 +42,8 @@ La docència que he realitzat en aquest àmbit es pot agrupar en les següents t
   
 Des de l'any 2009 formo part de l'equip docent del <a href="http://www.eu2p.org" target="_blank">_European programme of Pharmacovigilance and Pharmacoepidemiology (EU2P)_</a>, que imparteix formació virtual.
 
-Des de l'any 2010 sóc docent en el <a haref="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>.
+Des de l'any 2010 sóc docent en el <a href="https://www.uab.cat/masteroficial/farmacologia/index.html" target="_blank">Màster oficial en Farmacolgia. UAB</a>.
+
+<div align="left">
+<img src="/assets/images/UAB_5_x2,1.png" width="250" /> <img src="/assets/images/eu2p_logo2.png"  width="80" /> 
+</div>
