@@ -259,7 +259,7 @@ collections:
   carpeta:
     output: true
     permalink: /:collection/:path/
-  activitats:
+  recomanacions:
     output: true
     permalink: /:collection/:path/
 
