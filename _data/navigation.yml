@@ -2,8 +2,8 @@
 main:
   - title: "Carpeta docent"
     url: /carpeta/
-  - title: "Activitats"
-    url: /activitats/
+  - title: "M'ha interessat"
+    url: /recomanacions/
   - title: "Aquest lloc"
     url: /about/
 
@@ -17,14 +17,12 @@ Carpeta:
        - title: "Filosofia docent"
          url: /carpeta/03Filosofia-docent/         
 
-Activitats:
-   - title: "Activitats"
+Recomanacions:
+   - title: "Recomanacions"
      children:
-       - title: "Activitat 1"
-         url: /activitats/01Activitat-1
-       - title: "Activitat 2"
-         url: /activitats/02Activitat-2
-       - title: "Activitat 3"
-         url: /activitats/03Activitat-3
-       - title: "Activitat 4"
-         url: /activitats/04Activitat-4
+       - title: "Llibres"
+         url: /activitats/01Llibres
+       - title: "Articles"
+         url: /activitats/02Articles
+       - title: "Blocs i espais web"
+         url: /activitats/03Blocs

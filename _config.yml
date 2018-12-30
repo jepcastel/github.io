@@ -292,13 +292,13 @@ defaults:
       share: true
   
 
-  # _activitats
+  # _recomanacions
   - scope:
       path: ""
-      type: activitats
+      type: recomanacions
     values:
       sidebar:
-              nav: "Activitats"      
+              nav: "Recomanacions"      
       layout: single
       author_profile: false
       share: true
