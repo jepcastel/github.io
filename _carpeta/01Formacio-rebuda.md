@@ -1,9 +1,5 @@
 ---
 title: "Formació rebuda"
-#sidebar:
-#  - title: <a href="/carpeta/01Formacio-rebuda">Formació rebuda</a>
-#  - title: <a href="/carpeta/02Docencia-realitzada">Docència realitzada</a>
-#  - title: <a href="/carpeta/03Filosofia-docent">Filosofia docent</a>
 ---
 Després de finalitzar els estudis primaris i secundaris a l'<a href="http://santantoni.escolapia.cat/" target="_blank">Escola Pia de Sant Antoni</a> i de realitzar alguns cursos a la Facultat de <a href="https://www.ub.edu/portal/web/farmacia/home" target="_blank">Farmàcia de la Universitat de Barcelona</a>, vaig ingressar a la Facultat de Medicina de la Universitat Autònoma de Barcelona (1978), a la <a href="http://www.uab.cat/web/hospital-universitario-sant-pau-1229413433806.html" target="_blank">Unitat Docent de l'Hospital de la Santa Creu i de Sant Pau</a>. L'any 1984 em vaig llicenciar en **medicina i cirurgia**. 
  
