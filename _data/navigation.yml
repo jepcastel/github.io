@@ -18,7 +18,7 @@ Carpeta:
          url: /carpeta/03Filosofia-docent/         
 
 Recomanacions:
-   - title: "Recomanacions"
+   - title: "M'ha interessat"
      children:
        - title: "Llibres"
          url: /recomanacions/01Llibres/

@@ -1,4 +1,3 @@
 ---
-title: "Blocs, espais web"
-author_profile: true
+title: "Blocs"
 ---

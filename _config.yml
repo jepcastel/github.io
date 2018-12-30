@@ -298,7 +298,7 @@ defaults:
       type: recomanacions
     values:
       sidebar:
-              nav: "Recomanacions"      
+              nav: "M'ha interessat"      
       layout: single
       author_profile: false
       share: true
