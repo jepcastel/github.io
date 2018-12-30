@@ -21,8 +21,8 @@ Recomanacions:
    - title: "Recomanacions"
      children:
        - title: "Llibres"
-         url: /activitats/01Llibres
+         url: /recomanacions/01Llibres/
        - title: "Articles"
-         url: /activitats/02Articles
+         url: /recomanacions/02Articles/
        - title: "Blocs i espais web"
-         url: /activitats/03Blocs
+         url: /recomanacions/03Blocs/
