@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ...alguna cosa ha canviat
+title: Sobre aquest lloc
 permalink: /about/
 author_profile: true
 published: true
@@ -16,4 +16,4 @@ Però aquesta interpretació és errònia. Les tecnologies poden afavorir certs 
 
 En aquest espai personal parlaré d'eines digitats i dels seus usos potencials en l'acció docent i de tot allò que tingui a veure amb la innovació real de l'aprenentatge, basat en les TIC.
 
-Si vols saber quelcom més de mi, pots consultar [Linkedin]:https://es.linkedin.com/in/jepcastel.
+Si vols saber quelcom més de mi, pots consultar [Linkedin]: https://es.linkedin.com/in/jepcastel.
