@@ -12,8 +12,8 @@ Malgrat l'e-aprenentatge s'ha instal·lat definitivament en el panorama educatiu
 
 ![Bad Use of Learning](/assets/images/BadUseLearning-small.png)
 
-Però aquesta interpretació és errònia. Les tecnologies poden afavorir certs aspectes de l'acció formativa, però, però "per se" no garanteix que aquesta sigui millor. L'elearning ha propiciat que es recuperin altres mirades sobre el procés d'ensenyament i aprenentatge i n'ha proposat de noves. 
+Però aquesta interpretació és errònia. Les tecnologies poden afavorir certs aspectes de l'acció formativa, però, "per se" no garanteixen que aquesta sigui millor. L'elearning ha afavorit que es recuperin altres mirades sobre el procés d'ensenyament i aprenentatge i n'ha obert de noves. 
 
-En aquest espai personal parlaré d'eines digitats i dels seus usos potencials en l'acció docent i de tot allò que tingui a veure amb la innovació real de l'aprenentatge, basat en les TIC.
+En aquest espai personal parlaré d'eines digitats i dels seus usos potencials en l'acció docent i de tot allò que m'ha interessat sobre innovació de l'aprenentatge i noves tecnologies.
 
-Si vols saber quelcom més de mi, pots consultar [Linkedin]: https://es.linkedin.com/in/jepcastel.
+Si vols, pots consultar el meu perfil a  [Linkedin](https://es.linkedin.com/in/jepcastel).
