@@ -12,9 +12,9 @@ Lorem Ipsum és un text de farciment usat per la indústria de la tipografia i l
 
 The big MOOCs mostly employed smooth-functioning but basic video recording of lectures, multiple-choice quizzes, and unruly discussion forums. They were big, but they did not break new ground in pedagogy
 (Chronicle of Higher Education. Phil Hill)
-https://getpocket.com/a/read/1566304523
+https://getpocket.com/a/read
+[prova](https://jepcastel.github.io)
 
 
 Idees (no només per aquest apartat)
 http://www.davidgeurin.com/p/about-me.html
-No sempre és millor amb tecnologia. Pensar primer amb l'alumne que no és un dispositiu
