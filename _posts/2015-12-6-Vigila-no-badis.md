@@ -1,9 +1,9 @@
 ---
-layout: post
+layout: posts
 title: Vigila
 published: true
 author_profile: true
-Title: igilaV
+Title: vigila
 ---
 
 
