@@ -1,6 +1,6 @@
 ---
 layout: archive
-author_profile: true
+author_profile: false
 ---
 
 <!DOCTYPE html>
@@ -36,15 +36,15 @@ author_profile: true
 <a id="benvinguts" class="anchor" href="#benvinguts" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Benvinguts</h2>
         <p> <img src="assets/images/EDAD-v2.svg"/>&nbsp;&nbsp;&nbsp; <a href="about/">Aquest lloc</a></p>
         
-<!--{% include base_path %}
+{% include base_path %}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3> -->
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
-{% for post in paginator.posts %}
+<!--{% for post in paginator.posts %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
 
-<!--{% include paginator.html %}-->
+{% include paginator.html %}
 
       </section>
     </div>
