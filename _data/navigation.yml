@@ -2,7 +2,7 @@
 main:
   - title: "Carpeta docent"
     url: /carpeta/
-  - title: "M'ha interessat"
+  - title: "Potser t'interessi..."
     url: /recomanacions/
   - title: "Aquest lloc"
     url: /about/
@@ -18,7 +18,7 @@ Carpeta:
          url: /carpeta/03Filosofia-docent/         
 
 M'ha interessat:
-   - title: "M'ha interessat"
+   - title: "Potser t'interessi..."
      children:
        - title: "Llibres"
          url: /recomanacions/01Llibres/
