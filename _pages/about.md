@@ -16,4 +16,3 @@ Però aquesta interpretació és errònia. Les tecnologies poden afavorir certs 
 
 En aquest espai personal parlaré d'eines digitats i dels seus usos potencials en l'acció docent i de tot allò que m'ha interessat sobre innovació de l'aprenentatge i noves tecnologies.
 
-Si vols, pots consultar el meu perfil a  [Linkedin](https://www.linkedin.com/in/jepcastel/).
