@@ -1,8 +1,8 @@
 ---
-layout: posts
+layout: single
 title: Vigila
 published: true
-author_profile: false
+author_profile: true
 Title: vigila
 ---
 
