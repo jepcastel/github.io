@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: posts
 title: Vigila
 published: true
 author_profile: false
