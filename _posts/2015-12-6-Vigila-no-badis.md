@@ -2,7 +2,7 @@
 layout: single
 title: Vigila
 published: true
-author_profile: true
+author_profile: false
 Title: vigila
 ---
 
