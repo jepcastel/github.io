@@ -1,5 +1,6 @@
 ---
-title: "Formació rebuda"
+title: Formació rebuda
+published: true
 ---
 Després de finalitzar els estudis primaris i secundaris a l'<a href="http://santantoni.escolapia.cat/" target="_blank">Escola Pia de Sant Antoni</a> i de realitzar alguns cursos a la Facultat de <a href="https://www.ub.edu/portal/web/farmacia/home" target="_blank">Farmàcia de la Universitat de Barcelona</a>, vaig ingressar a la Facultat de Medicina de la Universitat Autònoma de Barcelona (1978), a la <a href="http://www.uab.cat/web/hospital-universitario-sant-pau-1229413433806.html" target="_blank">Unitat Docent de l'Hospital de la Santa Creu i de Sant Pau</a>. L'any 1984 em vaig llicenciar en **medicina i cirurgia**. 
  
@@ -9,7 +10,7 @@ L'any 2000 vaig obtenir l'especialitat de Farmacologia clínica.
 
 A partir de l'any 2000, vaig començar una nova línia de treball relacionada amb la **formació virtual** en farmacoepidemiologia. L'any 2001 vaig enprendre estudis de formador on-line a la <a href="http://www.uoc.edu" target="_blank">Universitat Oberta de Catalunya</a> i posteriorment, els vaig ampliar en realitzar el<a href="http://estudis.uoc.edu/ca/masters-universitaris/educacio-tic/presentacio" target="_blank">Mestratge en educació i noves tecnologies</a> de la UOC (2009).
 
-Durant la meva tasca docent en el grau de Medicina de la UAB m'he anat formant en diferents aspectes que relacionats amb la <a href="http://www.uab.cat/formacio-innovacio-docent/" target="_blank">Innovació Docent</a>:
+Durant la meva tasca docent en el grau de Medicina de la UAB m'he anat formant en diferents aspectes que relacionats amb la <a href="https://www.uab.cat/web/personal-uab/personal-uab/personal-academic-i-investigador/formacio-i-innovacio-docent-1345692931329.html" target="_blank">Innovació Docent</a>:
 
   * Aprenentatge basat en problemes.
   * Carpeta Docent.
