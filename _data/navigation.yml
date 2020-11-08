@@ -2,8 +2,6 @@
 main:
   - title: "Carpeta docent"
     url: /carpeta/
-  - title: "Potser t'interessi..."
-    url: /recomanacions/
   - title: "Aquest lloc"
     url: /about/
 
@@ -16,13 +14,3 @@ Carpeta:
          url: /carpeta/02Docencia-realitzada/    
        - title: "Filosofia docent"
          url: /carpeta/03Filosofia-docent/         
-
-M'ha interessat:
-   - title: "Potser t'interessi..."
-     children:
-       - title: "Llibres"
-         url: /recomanacions/01Llibres/
-       - title: "Articles"
-         url: /recomanacions/02Articles/
-       - title: "Blocs i espais web"
-         url: /recomanacions/03Blocs/
