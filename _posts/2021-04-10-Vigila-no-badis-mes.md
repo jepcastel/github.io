@@ -20,5 +20,4 @@ https://getpocket.com/a/read
 [prova](https://jepcastel.github.io)
 
 
-[Idees](http://www.davidgeurin.com/p/about-me.html)
-
+<a href="http://www.davidgeurin.com/p/about-me.html" target="_blank">Idees</a>
