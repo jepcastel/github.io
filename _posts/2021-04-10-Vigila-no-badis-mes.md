@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Post de prova
-published: false
+published: true
 author_profile: true
 Title: Post de prova
 ---
