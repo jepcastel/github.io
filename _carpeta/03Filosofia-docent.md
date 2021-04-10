@@ -17,7 +17,7 @@ Al marge de les teories d'aprenentatge en que es basi l'estratègia docent, hi h
 
 ![Piràmide d'aprenentatge](/assets/images/piramideaprenentatge.png)
 
-De Andrew Churches. <a href"http://eduteka.icesi.edu.co/articulos/TaxonomiaBloomDigital" target="_blank">Taxonomía de Bloom para la era digital</a>.
+De Andrew Churches. <a href="http://eduteka.icesi.edu.co/articulos/TaxonomiaBloomDigital" target="_blank">Taxonomía de Bloom para la era digital</a>.
 
 La implicació de l'alumne i el plantejament de problemes reals millora la **retenció de l'aprenentatge** i permet incorporar competències que li seran útils per en la pràctica professional. No sempre és fàcil convèncer a l'alumne dels avantatges que suposa l'esforç de ser protagonista del procés. Cal "_vendre el producte_" per fer-li veure que el canvi serà rentable en termes d'**aprenentatge autèntic**.
 
