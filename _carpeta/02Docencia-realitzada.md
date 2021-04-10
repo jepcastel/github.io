@@ -3,11 +3,11 @@ title: Docència realitzada
 published: true
 ---
 
-Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. Des d'aleshores desenvolutat activitat docent, tant en l'àmbit del pregrau com del postgrau.
+Des de l'any 1987 soc professor associat del <a href="http://www.uab.cat/departament/farmacologia-terapeutica-toxicologia/" target="_blank">Departament de Farmacologia, Terapèutica i Toxicologia de la Facultat de Medicina  de la  UAB</a>. 
 
 ## Pregrau
 
- La docència que he realitzat en aquest àmbit es pot resumir en els següents eixos de coneixement: 
+ Temàtiques sobre les que he impartit docència: 
    * Farmacologia
    * Terapèutica
    * Epidemiologia dels medicaments
@@ -25,7 +25,7 @@ He impartit classes teòriques i seminaris pràctics en les assignatures de Farm
   * Mètodes en farmacoepidemilogia
   * Sel·lecció de medicaments per al tractament de problemes de salut freqüents.  
   
-## Postgrau
+## Postgrau i formació continuada
 
 La docència que he realitzat en aquest àmbit es pot agrupar en les següents temàtiques:
   * Epidemiologia dels medicaments
