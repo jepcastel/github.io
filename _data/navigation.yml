@@ -6,11 +6,11 @@ main:
     url: /about/
 
 Carpeta:
-   - title: "Carpeta docent"
+   - title: "Presentacions"
      children:  
-       - title: "Formacio rebuda"
-         url: /carpeta/01Formacio-rebuda/                
+       - title: "Sobre farmacologia"
+         url: /carpeta/01Farmacologia/                
        - title: "Docència realitzada"
-         url: /carpeta/02Docencia-realitzada/    
+         url: /carpeta/02Aprenentatge-virtual/    
        - title: "Filosofia docent"
-         url: /carpeta/03Filosofia-docent/         
+         url: /carpeta/03Metopdes-docents/
