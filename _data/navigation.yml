@@ -5,7 +5,7 @@ main:
   - title: "Aquest lloc"
     url: /about/
   
-Carpeta:
+carpeta:
    - title: "Presentacions sobre..."
      children:  
        - title: "Farmacologia"
