@@ -4,9 +4,7 @@ main:
     url: /carpeta/
   - title: "Aquest lloc"
     url: /about/
-  - title: "De proves"
-  	url: /prova/
-
+  
 Carpeta:
    - title: "Presentacions sobre..."
      children:  
