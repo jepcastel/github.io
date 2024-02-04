@@ -136,7 +136,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - _presentacions
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -292,4 +292,3 @@ defaults:
       layout: single
       author_profile: false
       share: true
-  
