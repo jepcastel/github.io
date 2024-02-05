@@ -1,5 +1,6 @@
 ---
 title: Farmacologia
+published: true
 author_profile: true
 ---
 ### Presentacions d'alguns temes bàsics de farmacologia i farmacoepidemiologia
