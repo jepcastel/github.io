@@ -1,9 +1,9 @@
 ---
 layout: single
-title: Post de prova
+title: Post de prova I
 published: true
 author_profile: true
-Title: Post de prova
+Title: Post de prova I
 ---
 
 
