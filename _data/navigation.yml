@@ -2,6 +2,8 @@
 main:
   - title: "Material docent"
     url: /carpeta/
+  - title: "Posts"
+    url: /posts/
   - title: "Aquest lloc"
     url: /about/
   
