@@ -2,12 +2,20 @@
 main:
   - title: "Material docent"
     url: /carpeta/
-  - title: "Posts"
-    url: /posts/
   - title: "Aquest lloc"
     url: /about/
   
 carpeta:
+   - title: "Presentacions sobre..."
+     children:  
+       - title: "Farmacologia"
+         url: /carpeta/01Farmacologia/                
+       - title: "Mètodes docents"
+         url: /carpeta/02Aprenentatge-virtual/    
+       - title: "Aprenentatge virtual"
+         url: /carpeta/03Metodes-docents/
+         
+farmacoepidemiologia:
    - title: "Presentacions sobre..."
      children:  
        - title: "Farmacologia"
