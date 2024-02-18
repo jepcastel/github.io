@@ -136,7 +136,6 @@ author:
 include:
   - .htaccess
   - _pages
-  - presentacions
   
 exclude:
   - "*.sublime-project"
@@ -262,7 +261,7 @@ collections:
   carpeta:
     output: true
     permalink: /:collection/:path/
-  recomanacions:
+  presentacions:
     output: true
     permalink: /:collection/:path/
 
@@ -291,6 +290,17 @@ defaults:
     values:
       sidebar:
               nav: "Carpeta"
+      layout: single
+      author_profile: false
+      share: true
+# presentacions
+
+  - scope:
+      path: ""
+      type: presentacions
+    values:
+      sidebar:
+              nav: "Presentacions"
       layout: single
       author_profile: false
       share: true
