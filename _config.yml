@@ -297,7 +297,7 @@ defaults:
 
   - scope:
       path: ""
-      type: carpeta
+      type: presentacions
     values:
       sidebar:
               nav: "Presentacions"
