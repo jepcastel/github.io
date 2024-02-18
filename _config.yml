@@ -283,7 +283,6 @@ defaults:
       show_date: true
   
   # _carpeta
-
   - scope:
       path: ""
       type: carpeta
@@ -293,14 +292,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
-# presentacions
 
+# farmacoepidemiologia
   - scope:
       path: ""
-      type: presentacions
+      type: farmacoepidemiologia
     values:
       sidebar:
-              nav: "Presentacions"
+              nav: "Farmacoepidemiologia"
       layout: single
       author_profile: false
       share: true
