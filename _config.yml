@@ -293,13 +293,4 @@ defaults:
       author_profile: false
       share: true
 
-# farmacoepidemiologia
-  - scope:
-      path: ""
-      type: farmacoepidemiologia
-    values:
-      sidebar:
-              nav: "Farmacoepidemiologia"
-      layout: single
-      author_profile: false
-      share: true
+      
