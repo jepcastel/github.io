@@ -3,7 +3,7 @@ title: Farmacologia | Farmacoepidemiologia
 published: true
 author_profile: true
 ---
-### Bases de la farmacologia, la terapèutica i la farmacoepidemiologia 
+### Bases de la farmacologia i farmacoepidemiologia 
 Aquestes presentacions només són un recull personal d'alguns aspectes fonamentals d'aquesta disciplina. 
 Per aprendre cal aprofundir i cercar les fonts originals.
 - [Bases metodològiques de l'asaig clínic](https://jepcastel.github.io/farmacoepidemiologia/01slides-bases-metodolgiques-de-lassaog-clnic.html){:target="_blank"}
