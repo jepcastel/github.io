@@ -4,5 +4,6 @@ title: "Farmacoepidemiologia"
 permalink: /farmacoepidemiologia/
 author_profile: true
 ---
-<iframe src="https://jepcastel.github.io/farmacoepidemiologia/slides-farmacoepidemiologia.html">
-</iframe>
+{% for post in site.carpeta %}
+  {% include archive-single.html %}
+{% endfor %}
