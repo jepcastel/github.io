@@ -261,7 +261,7 @@ collections:
   carpeta:
     output: true
     permalink: /:collection/:path/
-  presentacions:
+  farmacoepidemiologia:
     output: true
     permalink: /:collection/:path/
 
