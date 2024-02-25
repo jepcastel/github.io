@@ -1,6 +1,6 @@
 ---
-layout:  archive
-title: "Farmacoepidemiologia"
+layout:  collection
+title: Farmacoepidemiologia
 permalink: /farmacoepidemiologia/
 author_profile: true
 ---
