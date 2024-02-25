@@ -261,6 +261,7 @@ collections:
   carpeta:
     output: true
     permalink: /:collection/:path/
+  
   farmacoepidemiologia:
     output: true
     permalink: /:collection/:path/
