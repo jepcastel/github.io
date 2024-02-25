@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Gato Pérez
-published: true
+published: false
 author_profile: true
 Title: Gato Pérez
 ---
